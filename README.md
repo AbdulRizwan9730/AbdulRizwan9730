@@ -196,7 +196,7 @@ https://github.com/AbdulRizwan9730/Employee-Management-System
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abdul-rizwan-9445b5335">
+<a href="https://www.linkedin.com/in/abdul-rizwan-abdul-ghaffar-9445b5335">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
