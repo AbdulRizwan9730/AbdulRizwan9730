@@ -8,7 +8,7 @@ Passionate about building scalable, secure, and high-performance web application
 
 <p align="center">
 <a href="https://github.com/AbdulRizwan9730">
-<img src="https://www.linkedin.com/in/abdul-rizwan-9445b5335?label=Followers&style=for-the-badge"/>
+<img src="https://www.linkedin.com/in/abdul-rizwan-abdul-ghaffar-9445b5335?label=Followers&style=for-the-badge"/>
 </a>
 
 <a href="mailto:rizwanabdul2001@gmail.com">
