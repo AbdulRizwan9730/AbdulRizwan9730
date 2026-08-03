@@ -15,7 +15,7 @@ Passionate about building scalable, secure, and high-performance web application
 <img src="https://img.shields.io/badge/Email-rizwanabdul2001%40gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abdul-rizwan-9445b5335">
+<a href="https://www.linkedin.com/in/abdul-rizwan-abdul-ghaffar-9445b5335">
 <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Rizwan-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
